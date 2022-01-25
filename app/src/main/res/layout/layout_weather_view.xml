@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorTransparent"
+    android:padding="@dimen/padding_10">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_5"
+            android:text="18℃"
+            android:textSize="@dimen/text_size_32"
+            android:textColor="@color/white"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvWeather"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="晴"
+                android:textSize="@dimen/text_size_16"
+                android:textColor="@color/white"/>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="15dp"
+                android:background="@color/colorGray"
+                android:layout_margin="@dimen/margin_3"/>
+
+            <TextView
+                android:id="@+id/tvAir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="东风"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_16"/>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_alignParentEnd="true">
+        
+        <ImageView
+            android:id="@+id/imgWeather"
+            android:layout_margin="@dimen/margin_5"
+            android:layout_width="@dimen/img_50"
+            android:layout_height="@dimen/img_50"/>
+
+        <TextView
+            android:id="@+id/tvAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="厦门市"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_16"/>
+    </LinearLayout>
+
+</RelativeLayout>

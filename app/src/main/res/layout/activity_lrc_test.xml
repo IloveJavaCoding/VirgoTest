@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:mylrcview="http://schemas.android.com/apk/res-auto"
+    android:background="@color/black"
+    android:orientation="vertical">
+
+    <com.harine.virgotest.component.VirgoLrcView
+        android:id="@+id/lrcView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mylrcview:vlrcTextSizeMain="@dimen/text_size_20"
+        mylrcview:vlrcTextSizeSec="@dimen/text_size_16"
+        mylrcview:vlrcDividerHeight="20dp"
+        mylrcview:vlrcTextColorMain="@color/colorTY"
+        mylrcview:vlrcTextColorSec="@color/colorGray"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Start"
+            android:onClick="onStartPlaying"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Stop"
+            android:onClick="onStopPlaying"/>
+    </LinearLayout>
+
+</RelativeLayout>

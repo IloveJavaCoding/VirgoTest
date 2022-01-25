@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ComponentActivity">
+
+    <com.harine.virgotest.component.VirgoParticles
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <RelativeLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvNotice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:textColor="#ff0000"
+            android:textSize="20sp"
+            android:text="O 先行" />
+
+        <com.harine.virgotest.component.VirgoTicToe
+            android:id="@+id/tictoe"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_width="200dp"
+            android:layout_height="200dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tictoe"
+            android:padding="10dp"
+            android:orientation="horizontal">
+
+            <Switch
+                android:id="@+id/switchAI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AI"
+                android:checked="true"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="restart"
+                android:onClick="onRestart"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutRipple"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <com.harine.virgotest.component.VirgoRippleView
+            android:id="@+id/rippleView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            app:rvBigColor="#66ccff"
+            app:rvSmallColor="#71B4D6"
+            app:rvBigRadius="60dp"
+            app:rvSpeed="10"
+            app:rvSpace="60"
+            app:rvRotateSpeed="3"
+            app:rvAlphaSpeed="40" />
+
+        <com.harine.virgotest.component.VirgoCircleRoundImageView
+            android:id="@+id/virgoImageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@mipmap/img_test"
+            android:layout_centerInParent="true"
+            app:vimgAddBorder="true"
+            app:vimgBorderWidth="5dp"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layoutRipple"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Start"
+            android:onClick="onStart"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Stop"
+            android:onClick="onStop"/>
+    </LinearLayout>
+</RelativeLayout>
