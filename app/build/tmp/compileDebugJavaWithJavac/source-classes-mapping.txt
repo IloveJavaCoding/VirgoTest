@@ -1,0 +1,301 @@
+com/harine/virgotest/data/bean/PlayLog.java
+ com.harine.virgotest.data.bean.PlayLog
+com/harine/virgotest/util/GsonUtil.java
+ com.harine.virgotest.util.GsonUtil
+com/harine/virgotest/event/OnStopageChangeEvent.java
+ com.harine.virgotest.event.OnStopageChangeEvent
+com/harine/virgotest/data/DatabaseOpenHelper.java
+ com.harine.virgotest.data.DatabaseOpenHelper
+com/harine/virgotest/ui/FileTestActivity.java
+ com.harine.virgotest.ui.FileTestActivity
+com/harine/virgotest/data/DBHelper.java
+ com.harine.virgotest.data.DBHelper
+com/harine/virgotest/data/bean/AreaItem.java
+ com.harine.virgotest.data.bean.AreaItem
+ com.harine.virgotest.data.bean.AreaItem$1
+com/harine/virgotest/ui/manager/FunctionManager.java
+ com.harine.virgotest.ui.manager.FunctionManager
+com/harine/virgotest/component/color/VirgoColorSVView.java
+ com.harine.virgotest.component.color.VirgoColorSVView
+com/harine/virgotest/BuildConfig.java
+ com.harine.virgotest.BuildConfig
+com/harine/virgotest/bean/VirgoPoint2.java
+ com.harine.virgotest.bean.VirgoPoint2
+com/harine/virgotest/util/TimeUtil.java
+ com.harine.virgotest.util.TimeUtil
+com/harine/virgotest/component/clock/VirgoDigitalClockView.java
+ com.harine.virgotest.component.clock.VirgoDigitalClockView
+ com.harine.virgotest.component.clock.VirgoDigitalClockView$1
+ com.harine.virgotest.component.clock.VirgoDigitalClockView$2
+com/harine/virgotest/component/AlarmTextView.java
+ com.harine.virgotest.component.AlarmTextView
+ com.harine.virgotest.component.AlarmTextView$1
+ com.harine.virgotest.component.AlarmTextView$2
+ com.harine.virgotest.component.AlarmTextView$3
+ com.harine.virgotest.component.AlarmTextView$4
+ com.harine.virgotest.component.AlarmTextView$FormatTextTask
+ com.harine.virgotest.component.AlarmTextView$MarqueeBean
+ com.harine.virgotest.component.AlarmTextView$MarqueeBean$1
+com/harine/virgotest/ui/ScrollTextActivity.java
+ com.harine.virgotest.ui.ScrollTextActivity
+com/harine/virgotest/ui/ComponentActivity.java
+ com.harine.virgotest.ui.ComponentActivity
+com/harine/virgotest/ui/view/AlarmVideoView.java
+ com.harine.virgotest.ui.view.AlarmVideoView
+ com.harine.virgotest.ui.view.AlarmVideoView$1
+com/harine/virgotest/data/db/TextItemDao.java
+ com.harine.virgotest.data.db.TextItemDao
+ com.harine.virgotest.data.db.TextItemDao$Properties
+com/harine/virgotest/ui/FashionClockActivity.java
+ com.harine.virgotest.ui.FashionClockActivity
+com/harine/virgotest/data/db/DaoSession.java
+ com.harine.virgotest.data.db.DaoSession
+com/harine/virgotest/bean/WeatherInfo.java
+ com.harine.virgotest.bean.WeatherInfo
+ com.harine.virgotest.bean.WeatherInfo$HeWeather6Bean
+ com.harine.virgotest.bean.WeatherInfo$HeWeather6Bean$BasicBean
+ com.harine.virgotest.bean.WeatherInfo$HeWeather6Bean$NowBean
+ com.harine.virgotest.bean.WeatherInfo$HeWeather6Bean$UpdateBean
+com/harine/virgotest/component/color/VirgoSVPicker.java
+ com.harine.virgotest.component.color.VirgoSVPicker
+com/harine/virgotest/component/VirgoRippleView.java
+ com.harine.virgotest.component.VirgoRippleView
+ com.harine.virgotest.component.VirgoRippleView$1
+ com.harine.virgotest.component.VirgoRippleView$2
+com/harine/virgotest/component/clock/VirgoElectDotView.java
+ com.harine.virgotest.component.clock.VirgoElectDotView
+com/harine/virgotest/component/VirgoWaveView.java
+ com.harine.virgotest.component.VirgoWaveView
+ com.harine.virgotest.component.VirgoWaveView$1
+com/harine/virgotest/component/color/VirgoColorHView.java
+ com.harine.virgotest.component.color.VirgoColorHView
+com/harine/virgotest/component/VirgoRadialGradientView.java
+ com.harine.virgotest.component.VirgoRadialGradientView
+com/harine/virgotest/component/color/VirgoColorAView.java
+ com.harine.virgotest.component.color.VirgoColorAView
+com/harine/virgotest/component/VirgoRainView.java
+ com.harine.virgotest.component.VirgoRainView
+ com.harine.virgotest.component.VirgoRainView$1
+ com.harine.virgotest.component.VirgoRainView$2
+com/harine/virgotest/MainActivity.java
+ com.harine.virgotest.MainActivity
+com/harine/virgotest/data/bean/TextItem.java
+ com.harine.virgotest.data.bean.TextItem
+com/harine/virgotest/component/color/VirgoColorBoard.java
+ com.harine.virgotest.component.color.VirgoColorBoard
+ com.harine.virgotest.component.color.VirgoColorBoard$1
+ com.harine.virgotest.component.color.VirgoColorBoard$2
+ com.harine.virgotest.component.color.VirgoColorBoard$3
+ com.harine.virgotest.component.color.VirgoColorBoard$4
+ com.harine.virgotest.component.color.VirgoColorBoard$5
+ com.harine.virgotest.component.color.VirgoColorBoard$6
+ com.harine.virgotest.component.color.VirgoColorBoard$7
+ com.harine.virgotest.component.color.VirgoColorBoard$8
+ com.harine.virgotest.component.color.VirgoColorBoard$9
+ com.harine.virgotest.component.color.VirgoColorBoard$ColorCallback
+com/harine/virgotest/bean/ReceiveCallBack.java
+ com.harine.virgotest.bean.ReceiveCallBack
+com/harine/virgotest/data/db/VideoItemDao.java
+ com.harine.virgotest.data.db.VideoItemDao
+ com.harine.virgotest.data.db.VideoItemDao$Properties
+com/harine/virgotest/data/db/ProgramDao.java
+ com.harine.virgotest.data.db.ProgramDao
+ com.harine.virgotest.data.db.ProgramDao$Properties
+com/harine/virgotest/util/FunctionUtil.java
+ com.harine.virgotest.util.FunctionUtil
+com/harine/virgotest/component/clock/VirgoElecDigitalView.java
+ com.harine.virgotest.component.clock.VirgoElecDigitalView
+com/harine/virgotest/ui/view/AlarmImageView2.java
+ com.harine.virgotest.ui.view.AlarmImageView2
+ com.harine.virgotest.ui.view.AlarmImageView2$1
+ com.harine.virgotest.ui.view.AlarmImageView2$2
+com/harine/virgotest/data/bean/Program.java
+ com.harine.virgotest.data.bean.Program
+com/harine/virgotest/util/TempUtil.java
+ com.harine.virgotest.util.TempUtil
+com/harine/virgotest/component/VirgoImageViewAnim.java
+ com.harine.virgotest.component.VirgoImageViewAnim
+ com.harine.virgotest.component.VirgoImageViewAnim$1
+com/harine/virgotest/bean/Client.java
+ com.harine.virgotest.bean.Client
+ com.harine.virgotest.bean.Client$connectService
+ com.harine.virgotest.bean.Client$sendService
+com/harine/virgotest/presenter/VirgoPresenter.java
+ com.harine.virgotest.presenter.VirgoPresenter
+ com.harine.virgotest.presenter.VirgoPresenter$1
+ com.harine.virgotest.presenter.VirgoPresenter$httpCallBack
+com/harine/virgotest/MyApplication.java
+ com.harine.virgotest.MyApplication
+com/harine/virgotest/VideoDecoder.java
+ com.harine.virgotest.VideoDecoder
+com/harine/virgotest/service/CoreService.java
+ com.harine.virgotest.service.CoreService
+ com.harine.virgotest.service.CoreService$1
+ com.harine.virgotest.service.CoreService$2
+com/harine/virgotest/data/db/DaoMaster.java
+ com.harine.virgotest.data.db.DaoMaster
+ com.harine.virgotest.data.db.DaoMaster$DevOpenHelper
+ com.harine.virgotest.data.db.DaoMaster$OpenHelper
+com/harine/virgotest/ui/PermissionTestActivity.java
+ com.harine.virgotest.ui.PermissionTestActivity
+com/harine/virgotest/data/bean/VideoItem.java
+ com.harine.virgotest.data.bean.VideoItem
+com/harine/virgotest/event/OnProgramListChangeEvent.java
+ com.harine.virgotest.event.OnProgramListChangeEvent
+com/harine/virgotest/data/db/PlayLogDao.java
+ com.harine.virgotest.data.db.PlayLogDao
+ com.harine.virgotest.data.db.PlayLogDao$Properties
+com/harine/virgotest/component/color/VirgoSelectCy.java
+ com.harine.virgotest.component.color.VirgoSelectCy
+ com.harine.virgotest.component.color.VirgoSelectCy$PointCallback
+com/harine/virgotest/component/VirgoRoundImageView.java
+ com.harine.virgotest.component.VirgoRoundImageView
+com/harine/virgotest/ui/MultiSocketActivity.java
+ com.harine.virgotest.ui.MultiSocketActivity
+ com.harine.virgotest.ui.MultiSocketActivity$1
+ com.harine.virgotest.ui.MultiSocketActivity$2
+ com.harine.virgotest.ui.MultiSocketActivity$3
+ com.harine.virgotest.ui.MultiSocketActivity$4
+ com.harine.virgotest.ui.MultiSocketActivity$5
+com/harine/virgotest/event/OnVideoFullEvent.java
+ com.harine.virgotest.event.OnVideoFullEvent
+com/harine/virgotest/data/db/ImageItemDao.java
+ com.harine.virgotest.data.db.ImageItemDao
+ com.harine.virgotest.data.db.ImageItemDao$Properties
+com/harine/virgotest/ui/manager/ProgramController.java
+ com.harine.virgotest.ui.manager.ProgramController
+ com.harine.virgotest.ui.manager.ProgramController$1
+ com.harine.virgotest.ui.manager.ProgramController$2
+com/harine/virgotest/ui/ImageMagicActivity.java
+ com.harine.virgotest.ui.ImageMagicActivity
+com/harine/virgotest/component/color/VirgoAPicker.java
+ com.harine.virgotest.component.color.VirgoAPicker
+com/harine/virgotest/component/VirgoLrcView.java
+ com.harine.virgotest.component.VirgoLrcView
+ com.harine.virgotest.component.VirgoLrcView$1
+ com.harine.virgotest.component.VirgoLrcView$LrcCallback
+ com.harine.virgotest.component.VirgoLrcView$MyLrcLine
+com/harine/virgotest/component/VirgoParticles.java
+ com.harine.virgotest.component.VirgoParticles
+ com.harine.virgotest.component.VirgoParticles$1
+ com.harine.virgotest.component.VirgoParticles$2
+com/harine/virgotest/ui/LrcTestActivity.java
+ com.harine.virgotest.ui.LrcTestActivity
+ com.harine.virgotest.ui.LrcTestActivity$1
+ com.harine.virgotest.ui.LrcTestActivity$2
+com/harine/virgotest/component/color/VirgoSelectRect.java
+ com.harine.virgotest.component.color.VirgoSelectRect
+ com.harine.virgotest.component.color.VirgoSelectRect$RectCallback
+com/harine/virgotest/component/VirgoThreeImage2.java
+ com.harine.virgotest.component.VirgoThreeImage2
+ com.harine.virgotest.component.VirgoThreeImage2$1
+ com.harine.virgotest.component.VirgoThreeImage2$2
+ com.harine.virgotest.component.VirgoThreeImage2$3
+ com.harine.virgotest.component.VirgoThreeImage2$4
+ com.harine.virgotest.component.VirgoThreeImage2$5
+com/harine/virgotest/ui/AlarmProgramActivity.java
+ com.harine.virgotest.ui.AlarmProgramActivity
+com/harine/virgotest/event/OnImageOverEvent.java
+ com.harine.virgotest.event.OnImageOverEvent
+com/harine/virgotest/data/db/AreaItemDao.java
+ com.harine.virgotest.data.db.AreaItemDao
+ com.harine.virgotest.data.db.AreaItemDao$Properties
+com/harine/virgotest/ui/DisplayControlActivity.java
+ com.harine.virgotest.ui.DisplayControlActivity
+com/harine/virgotest/bean/VirgoDoubleCircle.java
+ com.harine.virgotest.bean.VirgoDoubleCircle
+com/harine/virgotest/data/bean/ImageItem.java
+ com.harine.virgotest.data.bean.ImageItem
+com/harine/virgotest/data/db/TodayProgramDao.java
+ com.harine.virgotest.data.db.TodayProgramDao
+ com.harine.virgotest.data.db.TodayProgramDao$Properties
+com/harine/virgotest/component/VirgoWeatherView.java
+ com.harine.virgotest.component.VirgoWeatherView
+com/harine/virgotest/ui/VideoActivity.java
+ com.harine.virgotest.ui.VideoActivity
+com/harine/virgotest/ui/view/AlarmTextView2.java
+ com.harine.virgotest.ui.view.AlarmTextView2
+ com.harine.virgotest.ui.view.AlarmTextView2$1
+ com.harine.virgotest.ui.view.AlarmTextView2$2
+ com.harine.virgotest.ui.view.AlarmTextView2$ScrollTextThread
+com/harine/virgotest/receiver/BootReceiver.java
+ com.harine.virgotest.receiver.BootReceiver
+ com.harine.virgotest.receiver.BootReceiver$1
+com/harine/virgotest/component/ScheTextView.java
+ com.harine.virgotest.component.ScheTextView
+ com.harine.virgotest.component.ScheTextView$1
+ com.harine.virgotest.component.ScheTextView$2
+ com.harine.virgotest.component.ScheTextView$3
+ com.harine.virgotest.component.ScheTextView$FormatTextTask
+ com.harine.virgotest.component.ScheTextView$MarqueeBean
+ com.harine.virgotest.component.ScheTextView$MarqueeBean$1
+com/harine/virgotest/bean/VirgoDrop.java
+ com.harine.virgotest.bean.VirgoDrop
+com/harine/virgotest/bean/BaseBean.java
+ com.harine.virgotest.bean.BaseBean
+com/harine/virgotest/event/OnVideoOverEvent.java
+ com.harine.virgotest.event.OnVideoOverEvent
+com/harine/virgotest/bean/Server.java
+ com.harine.virgotest.bean.Server
+ com.harine.virgotest.bean.Server$CreateServer
+ com.harine.virgotest.bean.Server$ServerRun
+com/harine/virgotest/component/VirgoTextClockView.java
+ com.harine.virgotest.component.VirgoTextClockView
+ com.harine.virgotest.component.VirgoTextClockView$1
+ com.harine.virgotest.component.VirgoTextClockView$2
+com/harine/virgotest/ui/manager/ProgramPage.java
+ com.harine.virgotest.ui.manager.ProgramPage
+ com.harine.virgotest.ui.manager.ProgramPage$1
+ com.harine.virgotest.ui.manager.ProgramPage$2
+com/harine/virgotest/Constants.java
+ com.harine.virgotest.Constants
+com/harine/virgotest/ui/SocketPlayActivity.java
+ com.harine.virgotest.ui.SocketPlayActivity
+ com.harine.virgotest.ui.SocketPlayActivity$1
+ com.harine.virgotest.ui.SocketPlayActivity$2
+com/harine/virgotest/ui/GradientShowActivity.java
+ com.harine.virgotest.ui.GradientShowActivity
+ com.harine.virgotest.ui.GradientShowActivity$1
+com/harine/virgotest/ui/Text2SpeechActivity.java
+ com.harine.virgotest.ui.Text2SpeechActivity
+ com.harine.virgotest.ui.Text2SpeechActivity$1
+ com.harine.virgotest.ui.Text2SpeechActivity$2
+ com.harine.virgotest.ui.Text2SpeechActivity$3
+ com.harine.virgotest.ui.Text2SpeechActivity$3$1
+ com.harine.virgotest.ui.Text2SpeechActivity$3$2
+ com.harine.virgotest.ui.Text2SpeechActivity$3$3
+com/harine/virgotest/component/color/VirgoHPicker.java
+ com.harine.virgotest.component.color.VirgoHPicker
+com/harine/virgotest/ui/ServerClientActivity.java
+ com.harine.virgotest.ui.ServerClientActivity
+ com.harine.virgotest.ui.ServerClientActivity$1
+com/harine/virgotest/bean/VirgoPointf.java
+ com.harine.virgotest.bean.VirgoPointf
+com/harine/virgotest/util/TestUtil.java
+ com.harine.virgotest.util.TestUtil
+com/harine/virgotest/bean/VirgoPoint.java
+ com.harine.virgotest.bean.VirgoPoint
+com/harine/virgotest/ui/WeatherDemoActivity.java
+ com.harine.virgotest.ui.WeatherDemoActivity
+ com.harine.virgotest.ui.WeatherDemoActivity$1
+com/harine/virgotest/component/VirgoCircleRoundImageView.java
+ com.harine.virgotest.component.VirgoCircleRoundImageView
+com/harine/virgotest/event/OnImageFullEvent.java
+ com.harine.virgotest.event.OnImageFullEvent
+com/harine/virgotest/data/bean/TodayProgram.java
+ com.harine.virgotest.data.bean.TodayProgram
+com/harine/virgotest/component/VirgoGradientView.java
+ com.harine.virgotest.component.VirgoGradientView
+com/harine/virgotest/component/VirgoTicToe.java
+ com.harine.virgotest.component.VirgoTicToe
+ com.harine.virgotest.component.VirgoTicToe$1
+ com.harine.virgotest.component.VirgoTicToe$ticToeCallback
+com/harine/virgotest/ui/ImageAnimationActivity.java
+ com.harine.virgotest.ui.ImageAnimationActivity
+com/harine/virgotest/component/VirgoThreeImage.java
+ com.harine.virgotest.component.VirgoThreeImage
+ com.harine.virgotest.component.VirgoThreeImage$1
+ com.harine.virgotest.component.VirgoThreeImage$2
+ com.harine.virgotest.component.VirgoThreeImage$3
+ com.harine.virgotest.component.VirgoThreeImage$4
+ com.harine.virgotest.component.VirgoThreeImage$5

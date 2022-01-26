@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_fade_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather999.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather999.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather901.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather901.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather101.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather101.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_animation.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_image_animation.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_component.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_component.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_three_3.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\anim_three_3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_weather_view.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_weather_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather208.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather208.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather508.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather508.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather201.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather201.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_file_test.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_file_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_fade_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\anim_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_transfor_left_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_transfor_left_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather301.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather301.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather401.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather401.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather399.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather399.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather501.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather501.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather499.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather499.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_color_board.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_color_board.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather900.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather900.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_permission_test.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_permission_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_server_client.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_server_client.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather200.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather200.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather507.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather507.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather307.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather307.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather300.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather300.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_fade_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gradient_show.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_gradient_show.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather400.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather400.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather310.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather310.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather500.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather500.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather407.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather407.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather403.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather403.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather303.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather303.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather503.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather503.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather311.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather311.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather511.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather511.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_color_board.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\drawable\\frame_color_board.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_transfor_right_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_transfor_right_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather100.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather100.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_scale_center_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_scale_center_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather314.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather314.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather406.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather406.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_cover.jpg.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\img_cover.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather103.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather103.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_color_a.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_color_a.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_scale_center_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_scale_center_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather509.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather509.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather306.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather306.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_control.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_display_control.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_three_2.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\anim_three_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather309.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather309.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lrc_test.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_lrc_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_shaonian.lrc.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\raw\\shaonian.lrc"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_socket_play.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_socket_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather205.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather205.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_color_sv.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_color_sv.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_weather_demo.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_weather_demo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather405.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather405.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_alarm_image_view.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_alarm_image_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather305.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather305.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_text2_speech.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_text2_speech.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fashion_clock.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_fashion_clock.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather512.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather512.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_transfor_right_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_transfor_right_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_frame.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\drawable\\edit_text_frame.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather304.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather304.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather104.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather104.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_digit_clock.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_digit_clock.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather504.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather504.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather404.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather404.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather313.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather313.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scroll_text.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_scroll_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_tiv_anim_transfor_left_in.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\tiv_anim_transfor_left_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather513.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather513.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_fade_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\anim_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_black.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\drawable\\frame_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_button.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_three_1.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\anim_three_1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_socket.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_socket.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_wolf.jpg.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\img_wolf.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarm_program.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_alarm_program.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather502.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather502.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_color_h.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\layout_color_h.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_magic.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\layout\\activity_image_magic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather312.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather312.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather102.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather102.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_test.jpg.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-xxhdpi\\img_test.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather402.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather402.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_input.xml.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\drawable\\frame_input.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\VirgoTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_weather302.png.flat",
+        "source": "D:\\AndroidStudio\\VirgoTest\\app\\src\\main\\res\\mipmap-mdpi\\weather302.png"
+    }
+]
