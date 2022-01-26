@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <com.harine.virgotest.component.color.VirgoColorHView
+        android:layout_margin="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.harine.virgotest.component.color.VirgoSelectRect
+        android:id="@+id/hRect"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

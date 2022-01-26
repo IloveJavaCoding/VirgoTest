@@ -1,0 +1,77 @@
+plugins {
+    id 'com.android.application'
+}
+apply plugin: 'org.greenrobot.greendao'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.harine.virgotest"
+        minSdkVersion 17
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    dexOptions {
+        jumboMode = true
+        preDexLibraries false
+        javaMaxHeapSize "4g"
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
+
+    greendao {
+        schemaVersion 2 //数据库版本号: 升级apk时如果数据库变动需增加；
+        daoPackage 'com.harine.virgotest.data.db'// 设置DaoMaster、DaoSession、Dao 类存放位置（自动生成类）
+        targetGenDir 'src/main/java/'//设置DaoMaster、DaoSession、Dao目录
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation files('libs/VirgoSDK_1.1.2.jar')
+    implementation files('libs/HarineSdk.aar')
+    implementation files('libs/QWeather_Public_Android_V4.4.jar')
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'com.squareup.okhttp3:okhttp:4.4.0'
+
+    implementation 'org.greenrobot:greendao:3.3.0'
+    implementation 'com.github.bumptech.glide:glide:4.0.0'
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation 'com.android.support:multidex:1.0.3'
+}

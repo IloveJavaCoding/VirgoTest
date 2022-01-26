@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Virgo Test</string>
+
+    <string name="weather_temp">%s℃</string>
+</resources>
